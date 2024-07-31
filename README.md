@@ -1,2 +1,2 @@
 # css-methods
-the css methods assignment used to reinforce basic css knowledge
+is an assignment from the odin project used to reinforce introductory css knowledge on methods
